@@ -6,7 +6,7 @@
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Version](https://img.shields.io/badge/version-0.1.0-green.svg)](https://i-ali.ir/)
-[![Author](https://img.shields.io/badge/author-AliAshori-orange.svg)](https://github.com/AliAshori)
+[![Author](https://img.shields.io/badge/author-AliAshori78-orange.svg)](https://github.com/AliAshori78)
 
 **MP4 Player Pro** is an ultra-fast, lightweight UserScript that turns your browser into a high-definition video powerhouse. Drag and drop your local files or web-based video links for a seamless viewing experience without the need for external software.
 
