@@ -112,6 +112,10 @@ For the full list, see the [Releases page](https://github.com/aliashori78/MP4-Pl
                width="280" style="height:auto; border-radius:8px;"></td>
     </tr>
   </table>
+
+  <img src="https://raw.githubusercontent.com/aliashori78/MP4-Player-Pro/refs/heads/main/Assets/v1.2.0/Screenshot-6-v1.2.0.jpg"
+       alt="MP4 Player Pro — Watching Movie (.MKV)"
+       width="100%" style="width:800px; max-width:800px; height:auto; border-radius:10px;">
 </div>
 ---
 
